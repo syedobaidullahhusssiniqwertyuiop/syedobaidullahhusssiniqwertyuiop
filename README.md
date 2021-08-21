@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syedobaidullahhusssiniqwertyuiop
+- 👋 Hi, I’m @syedobaidullahhusssini
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web devrlopment
 - 💞️ I’m looking to collaborate on web development
